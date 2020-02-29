@@ -92,6 +92,10 @@ input::placeholder {
   color: #ffffff;
 }
 
+.button:hover {
+  background-color: pink;
+}
+
 .green-box {
   max-width: 345px;
   width: 100%;
